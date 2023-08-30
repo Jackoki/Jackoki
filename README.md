@@ -21,13 +21,13 @@ I am ceaselessly in pursuit of opportunities and knowledge to enrich, enhance, a
 
 ## Languages that I speak
 
-- <img style="width: 50px; height: 50px; display: block; margin: 0 auto;" alt="sonyvegas" src="https://cdn2.iconfinder.com/data/icons/circular-icon-set/256/Sony_Vegas_Pro.png"/> **Português:** Native
-- 🇬🇧 **English:** Fluent
-- 🇪🇸 **Español:** Intermediate
-- 🇫🇷 **Français:** Intermediate
-- 🇮🇹 **Italiano:** Intermediate
-- 🇩🇪 **Deutsch:** Basic
-- 🇯🇵 **日本語:** Basic
+- <img style="width: 15px; height: 15px; display: block; margin: 0 auto;" alt="brazil" src="https://github.com/Jackoki/Jackoki/blob/main/flags/brazil.png"/> **Português:** Native
+- <img style="width: 15px; height: 15px; display: block; margin: 0 auto;" alt="english" src="https://github.com/Jackoki/Jackoki/blob/main/flags/usa.png"/> **English:** Fluent
+- <img style="width: 15px; height: 15px; display: block; margin: 0 auto;" alt="spain" src="https://github.com/Jackoki/Jackoki/blob/main/flags/spain.png"/> **Español:** Intermediate
+- <img style="width: 15px; height: 15px; display: block; margin: 0 auto;" alt="france" src="https://github.com/Jackoki/Jackoki/blob/main/flags/france.png"/> **Français:** Intermediate
+- <img style="width: 15px; height: 15px; display: block; margin: 0 auto;" alt="italia" src="https://github.com/Jackoki/Jackoki/blob/main/flags/italia.png"/> **Italiano:** Intermediate
+- <img style="width: 15px; height: 15px; display: block; margin: 0 auto;" alt="germany" src="https://github.com/Jackoki/Jackoki/blob/main/flags/germany.png"/> **Deutsch:** Basic
+- <img style="width: 15px; height: 15px; display: block; margin: 0 auto;" alt="japan" src="https://github.com/Jackoki/Jackoki/blob/main/flags/japan.png"/>  **日本語:** Basic
 
 <!---
 Jackoki/Jackoki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
