@@ -21,7 +21,7 @@ I am ceaselessly in pursuit of opportunities and knowledge to enrich, enhance, a
 
 ## Languages that I speak
 
-- 🇵🇹 **Português:** Native
+- <img style="width: 50px; height: 50px; display: block; margin: 0 auto;" alt="sonyvegas" src="https://cdn2.iconfinder.com/data/icons/circular-icon-set/256/Sony_Vegas_Pro.png"/> **Português:** Native
 - 🇬🇧 **English:** Fluent
 - 🇪🇸 **Español:** Intermediate
 - 🇫🇷 **Français:** Intermediate
