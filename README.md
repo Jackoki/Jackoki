@@ -2,10 +2,10 @@
 
 - 👋 Hi, I’m Gabriel
 - 👀 I’m interested in games, programming, cooking and Formula 1
-- 🌱 I’m currently learning PHP, Angular, Typescript, React, Next and Flutter
+- 🌱 I’m currently learning C# and NET Framework
 - 📫 You can contact me: kenji.inoue@hotmail.com
 
-- 🔎 About me: I am currently enrolled in the Bachelor of Software Engineering program at the Federal Technological University of Paraná (UTFPR), Cornélio Procópio campus, where I am in the 3rd semester. I possess a remarkable aptitude for comprehending and mastering new content, coupled with the ability to apply and test it in practical scenarios. Furthermore, I am adept at navigating and collaborating effectively within team-based work environments, consistently aiming for outstanding outcomes.
+- 🔎 About me: I am currently enrolled in the Bachelor of Software Engineering program at the Federal Technological University of Paraná (UTFPR), Cornélio Procópio campus, where I am in the 4th semester. I possess a remarkable aptitude for comprehending and mastering new content, coupled with the ability to apply and test it in practical scenarios. Furthermore, I am adept at navigating and collaborating effectively within team-based work environments, consistently aiming for outstanding outcomes.
 I am ceaselessly in pursuit of opportunities and knowledge to enrich, enhance, and refine my academic and professional journey through a spectrum of meaningful experiences. I eagerly anticipate embracing stimulating challenges and forging a robust and promising career in the field of Software Engineering.
 
 ![Portfolio Screenshot](https://github.com/Jackoki/Jackoki/raw/main/Portfolio.png)
